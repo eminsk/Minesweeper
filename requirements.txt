@@ -1,0 +1,12 @@
+# Minesweeper Game Requirements
+# Python 3.7+ required
+
+# Core dependencies (included in standard Python)
+# tkinter - GUI framework (usually bundled with Python)
+
+# Optional development dependencies
+pytest>=7.0.0  # For running tests
+pytest-cov>=3.0.0  # For code coverage
+black>=22.0.0  # Code formatter
+mypy>=0.950  # Type checking
+flake8>=4.0.0  # Linting
