@@ -39,7 +39,7 @@ A modern, professional implementation of the classic Minesweeper game with a bea
 ### Quick Start
 ```bash
 # Clone or download the game
-git clone https://github.com/yourusername/minesweeper-game.git
+git clone https://github.com/eminsk/minesweeper-game.git
 cd minesweeper-game
 
 # Run the game
